@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a8a87884b0aa444159be44ea149daef0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gula FREE
+  fontNames:
+  - Gula FREE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8d400806be66a45fab05f4791841fe25, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
